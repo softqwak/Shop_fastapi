@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # FastAPI Shop
 
 ## Overview
@@ -136,4 +135,3 @@ For questions or inquiries, please contact [Amin Zamani](mailto:aminzamani.work@
 ---
 =======
 # Shop_fastapi
->>>>>>> 474fe480b7b0b9e2eccc55611ed2006b5b4cb8d6
