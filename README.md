@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FastAPI Shop
 
 ## Overview
@@ -133,3 +134,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For questions or inquiries, please contact [Amin Zamani](mailto:aminzamani.work@gmail.com).
 
 ---
+=======
+# Shop_fastapi
+>>>>>>> 474fe480b7b0b9e2eccc55611ed2006b5b4cb8d6
